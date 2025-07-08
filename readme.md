@@ -4,7 +4,7 @@
 
 # koishi-plugin-comfyui-kontext-neptune
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-comfyui-kontext-neptune?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-comfyui-kontext-neptune)
+[![npm](https://img.shields.io/npm/v/koishi-plugin-comfyui-kontext?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-comfyui-kontext)
 
 一个基于 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 和 Kontext Dev 模型的 [Koishi](https://koishi.chat) 第三方插件。支持单图和双图输入，集成 DeepSeek 提示词工程与翻译，适用于图片修改、融合、换衣等多种场景。
 
