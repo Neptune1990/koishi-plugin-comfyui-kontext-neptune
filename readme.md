@@ -57,4 +57,8 @@
 
 ---
 
+<<<<<<< HEAD
 如需更详细的配置说明或遇到问题，欢迎在 [GitHub Issues](https://github.com/Neptune1990/koishi-plugin-comfyui-kontext-neptune/issues) 反馈！
+=======
+如需更详细的配置说明或遇到问题，欢迎在 [GitHub Issues](https://github.com/Neptune1990/koishi-plugin-comfyui-kontext-neptune/issues) 反馈！
+>>>>>>> 1e59928afccfa8992bbb576997dddad25e1f9dc7
